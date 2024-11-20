@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: System Chat Mover
+## Author: Lexie
+## Notes: Move/relay system messages to other/additional frames.
+## Version: 1.0
+## SavedVariables: SystemChatMover
+SystemChatMover.lua
