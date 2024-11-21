@@ -59,7 +59,6 @@ SlashCmdList["SYSTEMCHATMOVER"] = function(message)
           break
         end
       end
-      DEFAULT_CHAT_FRAME:AddMessage(SystemChatMover[i],r,g,b)
     end
   elseif commandlist[1] == "ls" then
     local o = ''
